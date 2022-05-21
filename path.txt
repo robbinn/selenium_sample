@@ -1,0 +1,4 @@
+C:\Users\siwenwang\Desktop\Tor Browser\Browser\TorBrowser\Tor\tor.exe
+C:\Users\siwenwang\Desktop\Tor Browser\Browser\firefox.exe
+C:/Users/siwenwang/Desktop/Tor Browser/Browser/TorBrowser/Data/Browser/profile.default
+C:/Users/siwenwang/PycharmProjects/selenium/geckodriver.exe
